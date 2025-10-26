@@ -1,4 +1,4 @@
-SP32 BLE Library für VESC (Firmware `COMM_GET_VALUES`).  
+ESP32 BLE Library für VESC (Firmware `COMM_GET_VALUES`).  
 Version: v1.3.4 (RC15) • Autor: Zachway • Lizenz: MIT
 
 Highlights:
